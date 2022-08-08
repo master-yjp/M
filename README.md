@@ -1,1 +1,1 @@
-# I am going to write a text editor in C/C++
+# I am going to write a text editor in C
